@@ -6,7 +6,7 @@
 ## 👥 Tim Pengembang
 * **Firdaus Fatan Nugraha** 4523210049 - [CEO]
 * **Azizah Firdayani** 4523210026 - [Accountant]
-* **Devica Putri Icasia** 4523210036 - [Accountant]
+* **Devica Putri Hdiyanti** 4523210036 - [Accountant]
 * **Fahran Maulana Febryan** 4523210044 - [Marketing]
 * **Deswita Prisdei Bago** 4523210035 - [Marketing]
 * **Ahmad Khoiri Putranto** 4523210005 - [Communication Lead]
