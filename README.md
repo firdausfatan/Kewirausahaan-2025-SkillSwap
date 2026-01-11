@@ -1,20 +1,20 @@
-# SkillSwap ID
+# Skill-Swap IT
 > **Your Friendly Neighborhood**
 
 ---
 
 ## 👥 Tim Pengembang
-* **Firdaus Fatan Nugraha** 4523210049 - [Peran: CEO/Hustler]
-* **Azizah Firdayani** (NIM) - [Peran: CTO/Hacker]
-* **Devica Putri Icasia** (NIM) - [Peran: CMO/Hipster]
-* **Fahran Maulana Febryan** (NIM) - [Peran: CMO/Hipster]
-* **Deswita** (NIM) - [Peran: CMO/Hipster]
-* **Ahmad Khoiri Putranto** (NIM) - [Peran: CMO/Hipster]
+* **Firdaus Fatan Nugraha** 4523210049 - [CEO]
+* **Azizah Firdayani** 4523210026 - [Accountant]
+* **Devica Putri Icasia** 4523210036 - [Accountant]
+* **Fahran Maulana Febryan** 4523210044 - [Marketing]
+* **Deswita Prisdei Bago** 4523210035 - [Marketing]
+* **Ahmad Khoiri Putranto** 4523210005 - [Communication Lead]
 
 ---
 
 ## 🔍 1. Laporan Validasi Lapangan (Field Work)
-Kami telah melakukan validasi masalah di wilayah **[Lokasi]** dengan melibatkan **[Jumlah]** responden.
+Kami telah melakukan validasi masalah di wilayah **Universitas Pancasila** dengan melibatkan **6** responden.
 
 * **Permasalahan Utama:** [Deskripsi singkat masalah]
 * **Solusi yang Ditawarkan:** [Deskripsi singkat solusi]
