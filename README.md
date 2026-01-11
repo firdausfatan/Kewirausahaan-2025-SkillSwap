@@ -16,8 +16,8 @@
 ## 🔍 1. Laporan Validasi Lapangan (Field Work)
 Kami telah melakukan validasi masalah di wilayah **Universitas Pancasila** dengan melibatkan **6** responden.
 
-* **Permasalahan Utama:** [Deskripsi singkat masalah]
-* **Solusi yang Ditawarkan:** [Deskripsi singkat solusi]
+* **Permasalahan Utama:** [Masalah yang dihadapi adalah banyak mahasiswa IT kesulitan memahami mata kuliah praktikum, sementara opsi les atau bimbel yang ada kurang fleksibel dan relatif mahal, serta belum tersedia platform khusus di lingkungan kampus untuk tutor sebaya berbasis skill IT]
+* **Solusi yang Ditawarkan:** [Solusi yang ditawarkan adalah platform digital berbasis website atau aplikasi mobile yang memfasilitasi pencarian tutor sesuai mata kuliah dan skill IT, pemesanan sesi belajar, komunikasi tutor–murid, sistem penilaian, serta opsi pembayaran fleksibel baik dengan biaya maupun tukar skill]
 
 📄 **[AKSES DOKUMEN: Laporan Validasi & Bukti Lapangan (Google Docs)](Link_Google_Docs)**
 *(Dokumen ini memuat transkrip wawancara, foto kegiatan, dan analisis validasi)*
