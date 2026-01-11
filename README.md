@@ -25,8 +25,8 @@ Kami telah melakukan validasi masalah di wilayah **Universitas Pancasila** denga
 ---
 
 ## 📊 2. Arsitektur Keuangan & Model Bisnis
-* **Modal Awal:** Rp [Nominal]
-* **Break Even Point (BEP):** Bulan ke-[Sekian]
+* **Modal Awal:** Rp [Rp300.000]
+* **Break Even Point (BEP):** Bulan ke-[1,2,3]
 * **Proyeksi Profit (Bulan ke-3):** Rp [1.242.000]
 
 📈 **[AKSES DOKUMEN: Perhitungan Keuangan Lengkap (Google Sheets)](https://docs.google.com/spreadsheets/d/1VAIN6wWD_PAT-8UhDGyz7MvKo2ZzpS0PCJXRpanDQyo/edit?usp=sharing)**
