@@ -35,10 +35,10 @@ Kami telah melakukan validasi masalah di wilayah **Universitas Pancasila** denga
 ---
 
 ## ⚖️ 3. Aspek Legalitas & Mitigasi Risiko
-* **Status Merek:** [Aman/Tidak Aman berdasarkan PDKI]
-* **Bentuk Badan Usaha:** [PT Perorangan/CV]
+* **Status Merek:** [Aman untuk digunakan dan didaftarkan]
+* **Bentuk Badan Usaha:** [PT Perorangan]
 
-📄 **[AKSES DOKUMEN: Draft Legal & Terms of Service (Google Docs)](Link_Google_Docs_Legal)**
+📄 **[AKSES DOKUMEN: Draft Legal & Terms of Service (Google Docs)](https://docs.google.com/document/d/1BXINLmkFWHpiNU6diL5AgWOXDbORxTbnGHaLUd2XPUo/edit?usp=sharing)**
 
 ---
 
