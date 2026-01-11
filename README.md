@@ -25,7 +25,7 @@ Kami telah melakukan validasi masalah di wilayah **Universitas Pancasila** denga
 ---
 
 ## 📊 2. Arsitektur Keuangan & Model Bisnis
-* **Modal Awal:** Rp [Rp300.000]
+* **Modal Awal:** Rp [300.000]
 * **Break Even Point (BEP):** Bulan ke-[1,2,3]
 * **Proyeksi Profit (Bulan ke-3):** Rp [1.242.000]
 
