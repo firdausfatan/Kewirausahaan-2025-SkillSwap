@@ -19,7 +19,7 @@ Kami telah melakukan validasi masalah di wilayah **Universitas Pancasila** denga
 * **Permasalahan Utama:** [Masalah yang dihadapi adalah banyak mahasiswa IT kesulitan memahami mata kuliah praktikum, sementara opsi les atau bimbel yang ada kurang fleksibel dan relatif mahal, serta belum tersedia platform khusus di lingkungan kampus untuk tutor sebaya berbasis skill IT]
 * **Solusi yang Ditawarkan:** [Solusi yang ditawarkan adalah platform digital berbasis website atau aplikasi mobile yang memfasilitasi pencarian tutor sesuai mata kuliah dan skill IT, pemesanan sesi belajar, komunikasi tutor–murid, sistem penilaian, serta opsi pembayaran fleksibel baik dengan biaya maupun tukar skill]
 
-📄 **[AKSES DOKUMEN: Laporan Validasi & Bukti Lapangan (Google Docs)](Link_Google_Docs)**
+📄 **[AKSES DOKUMEN: Laporan Validasi & Bukti Lapangan (Google Docs)](https://docs.google.com/document/d/118cg9qAMAjhW9Sz1QoidCKZdZCBXJDjokqUeU-A2lJk/edit?usp=sharing)**
 *(Dokumen ini memuat transkrip wawancara, foto kegiatan, dan analisis validasi)*
 
 ---
@@ -44,3 +44,5 @@ Kami telah melakukan validasi masalah di wilayah **Universitas Pancasila** denga
 
 ## 📺 4. Presentasi Produk (Pitch Deck)
 Simak penjelasan lengkap mengenai potensi bisnis kami melalui video berikut:
+
+[https://www.youtube.com/watch?v=b9lf7zVc57E](https://www.youtube.com/watch?v=b9lf7zVc57E)
